@@ -6,6 +6,11 @@ Play with w, a, s, d keys.
 
 ![](./screenshots/1.png)
 
+<h1>Other Contributors</h1>
+<a href="https://github.com/nayaker">Atanu Nayak</a><br>
+<a href="https://github.com/stingspree">Arijoy Majumdar</a><br>
+<a href="https://github.com/tanmoy07072001">Tanmoy Roy</a><br>
+
 ## Qt spec
 
 This is developed on Qt 6.2.1. If you want to develop under Qt 6, you may need to uncomment some lines in `Qt-pac-man.pro` file.
